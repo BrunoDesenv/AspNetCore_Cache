@@ -1,5 +1,3 @@
-using System;
-
 namespace DemoMemoryCache.Models
 {
     public class ErrorViewModel

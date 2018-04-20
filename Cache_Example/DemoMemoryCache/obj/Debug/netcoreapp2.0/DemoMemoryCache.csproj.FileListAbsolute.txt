@@ -1,0 +1,11 @@
+C:\Users\bruno.santos.eit\Desktop\Cache\Cache_Example\DemoMemoryCache\bin\Debug\netcoreapp2.0\DemoMemoryCache.deps.json
+C:\Users\bruno.santos.eit\Desktop\Cache\Cache_Example\DemoMemoryCache\bin\Debug\netcoreapp2.0\DemoMemoryCache.runtimeconfig.json
+C:\Users\bruno.santos.eit\Desktop\Cache\Cache_Example\DemoMemoryCache\bin\Debug\netcoreapp2.0\DemoMemoryCache.runtimeconfig.dev.json
+C:\Users\bruno.santos.eit\Desktop\Cache\Cache_Example\DemoMemoryCache\bin\Debug\netcoreapp2.0\DemoMemoryCache.dll
+C:\Users\bruno.santos.eit\Desktop\Cache\Cache_Example\DemoMemoryCache\obj\Debug\netcoreapp2.0\DemoMemoryCache.csproj.CoreCompileInputs.cache
+C:\Users\bruno.santos.eit\Desktop\Cache\Cache_Example\DemoMemoryCache\obj\Debug\netcoreapp2.0\DemoMemoryCache.AssemblyInfoInputs.cache
+C:\Users\bruno.santos.eit\Desktop\Cache\Cache_Example\DemoMemoryCache\obj\Debug\netcoreapp2.0\DemoMemoryCache.AssemblyInfo.cs
+C:\Users\bruno.santos.eit\Desktop\Cache\Cache_Example\DemoMemoryCache\bin\Debug\netcoreapp2.0\DemoMemoryCache.pdb
+C:\Users\bruno.santos.eit\Desktop\Cache\Cache_Example\DemoMemoryCache\obj\Debug\netcoreapp2.0\DemoMemoryCache.csprojResolveAssemblyReference.cache
+C:\Users\bruno.santos.eit\Desktop\Cache\Cache_Example\DemoMemoryCache\obj\Debug\netcoreapp2.0\DemoMemoryCache.dll
+C:\Users\bruno.santos.eit\Desktop\Cache\Cache_Example\DemoMemoryCache\obj\Debug\netcoreapp2.0\DemoMemoryCache.pdb

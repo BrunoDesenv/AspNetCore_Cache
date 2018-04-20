@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  demomemorycache:
+    image: demomemorycache
+    build:
+      context: ./DemoMemoryCache
+      dockerfile: Dockerfile

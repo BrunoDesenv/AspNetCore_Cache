@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  demomemorycache:
+    build:
+      context: C:\Users\bruno.santos.eit\Desktop\Cache\Cache_Example\DemoMemoryCache
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: demomemorycache
+    ports:
+    - 80/tcp
+version: '3.0'
